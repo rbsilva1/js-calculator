@@ -1,4 +1,4 @@
-// Calculadora
+// Calculadora - JS
 
 function criaCalculadora() {
     return {
