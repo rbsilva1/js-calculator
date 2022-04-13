@@ -59,5 +59,5 @@ function criaCalculadora() {
     }
 }
 
-const calculadora = criaCalculadora();
+const calculadora = criaCalculadora(); // Armazenar a Factory Function
 calculadora.inicia(); // Iniciar Calculadora
