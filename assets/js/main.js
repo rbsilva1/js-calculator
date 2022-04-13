@@ -60,4 +60,4 @@ function criaCalculadora() {
 }
 
 const calculadora = criaCalculadora();
-calculadora.inicia();
+calculadora.inicia(); // Iniciar Calculadora
